@@ -1,0 +1,1 @@
+En este ejercicio lo primero que hago es inicializar un map con un String y una lista de las notas y lo primero que hago es leer el fichero con su correspondiente Array de String para posteriormente calcular la nota media y guardarla en una lista de double de notas. Por ultimo solo vamos a guardar leyendo el fichero, los alumnos que sean aprobados.
